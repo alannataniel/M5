@@ -10,21 +10,19 @@ function App() {
 
 <div className="container">
 
-<div className="row">
+<div className="row justify-content-center">
 
-  <div className="col-md m-3">
+  <div className="col-sm m-3 p-0 d-flex align-items-stretch">
 
-    <div className="card">
-      <div className="card-body">
-        <h5 className="card-title">Card title 1</h5>
-        <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" className="btn btn-primary">Go somewhere</a>
+    <div className="card w-100">
+      <div className="card-body d-flex align-items-center justify-content-center">
+        This is some text within a card body.
       </div>
     </div>
 
   </div>
 
-  <div className="col-md m-3">
+  <div className="col-sm m-3 p-0 d-flex align-items-stretch">
 
     <div className="card">
       <div className="card-body">
@@ -36,13 +34,11 @@ function App() {
 
   </div>
 
-  <div className="col-md m-3">
+  <div className="col-sm m-3 p-0 d-flex align-items-stretch">
 
-    <div className="card">
-      <div className="card-body">
-        <h5 className="card-title">Card title 3</h5>
-        <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" className="btn btn-primary">Go somewhere</a>
+    <div className="card w-100">
+      <div className="card-body d-flex align-items-center justify-content-center">
+        This is some text within a card body.
       </div>
     </div>
 
@@ -50,9 +46,9 @@ function App() {
 
 </div>
 
-<div className="row">
+<div className="row justify-content-center">
 
-  <div className="col-md m-3">
+  <div className="col-sm m-3 p-0 d-flex align-items-stretch">
 
     <div className="card">
       <div className="card-body">
@@ -64,19 +60,17 @@ function App() {
 
   </div>
 
-  <div className="col-md m-3">
+  <div className="col-sm m-3 p-0 d-flex align-items-stretch">
     
-    <div className="card">
-      <div className="card-body">
-        <h5 className="card-title">Card title 5</h5>
-        <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" className="btn btn-primary">Go somewhere</a>
+    <div className="card w-100">
+      <div className="card-body d-flex align-items-center justify-content-center">
+        This is some text within a card body.
       </div>
     </div>
 
   </div>
 
-  <div className="col-md m-3">
+  <div className="col-sm m-3 p-0 d-flex align-items-stretch">
 
     <div className="card">
       <div className="card-body">
@@ -90,20 +84,19 @@ function App() {
 
 </div>
 
-<div className="row">
+<div className="row justify-content-center">
 
-  <div className="col-md m-3">
+  <div className="col-sm m-3 p-0 d-flex align-items-stretch">
 
-    <div className="card">
-        <div className="card-body">
-          <h5 className="card-title">Card title 7</h5>
-          <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-          <a href="#" className="btn btn-primary">Go somewhere</a>
-        </div>
+    <div className="card w-100">
+      <div className="card-body d-flex align-items-center justify-content-center">
+        This is some text within a card body.
+      </div>
     </div>
+
   </div>
 
-  <div className="col-md m-3">
+  <div className="col-sm m-3 p-0 d-flex align-items-stretch">
 
     <div className="card">
       <div className="card-body">
@@ -115,13 +108,11 @@ function App() {
 
   </div>
 
-  <div className="col-md m-3">
+  <div className="col-sm m-3 p-0 d-flex align-items-stretch">
 
-    <div className="card">
-      <div className="card-body">
-        <h5 className="card-title">Card title 9</h5>
-        <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" className="btn btn-primary">Go somewhere</a>
+    <div className="card w-100">
+      <div className="card-body d-flex align-items-center justify-content-center">
+        This is some text within a card body.
       </div>
     </div>
 
